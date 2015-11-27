@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mlb406@gmail.com",
+    "longName": "brick_breaker",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "brick_breaker",
+    "uuid": "52ab88d2-1b63-4965-85f8-3f33a9e15024",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
